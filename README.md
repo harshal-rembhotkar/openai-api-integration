@@ -1,1 +1,1 @@
-# Chat-GPT-Cli
+# Cli tool
